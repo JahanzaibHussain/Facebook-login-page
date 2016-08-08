@@ -13,6 +13,7 @@ body{
 }
 .first_line{
 	color: white;
+	display: inline-block;
 }
 .left{
 	float: left !important;
@@ -47,4 +48,7 @@ body{
 .b{
 	margin-right: 8em;
 }
-
+/*Header tak ki CSS*/
+.main2 div img h1 h4{
+	display: inline;
+}
