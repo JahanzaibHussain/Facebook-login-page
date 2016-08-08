@@ -2,7 +2,24 @@
 	margin: 0px;
 	padding: 0px;
 }
+body{
+
+}
 .header{
 	width: 100%;
-	height: 3em;
+	height: 5em;
+	background-color: #3B5998;
+}
+.left{
+	float: left !important;
+}
+.right1{
+	padding: 1em;
+}
+.right2{
+	float: right !important;
+	margin-right: 1em;
+}
+.a{
+	margin-right: 1em;
 }
