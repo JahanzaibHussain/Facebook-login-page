@@ -49,6 +49,40 @@ body{
 	margin-right: 8em;
 }
 /*Header tak ki CSS*/
-.main2 div img h1 h4{
-	display: inline;
+.main span{
+	display: inline-block;
+}
+.main1{
+	float: left;
+	margin-left: 15em;
+}
+.main1 #text{
+	width: 400px;
+	margin: 3em;
+	font-size: 1.2em;
+}
+.main2{
+	float: right;
+	margin-right: 20em;
+	margin-top: 2em;
+}
+.main2 p{
+	margin-top: 10px;
+	font-size: 16px;
+}
+.input1{
+	margin-top: 10px;
+	margin-right: 7px; 
+	width: 12em;
+
+	height: 2.5em;
+	border: 1px solid #C5CDD0;
+	border-radius: 4px;
+}
+.input{
+	margin-top: 10px;
+	width: 24em;
+	height: 2.5em;
+	border: 1px solid #C5CDD0;
+	border-radius: 4px;
 }
